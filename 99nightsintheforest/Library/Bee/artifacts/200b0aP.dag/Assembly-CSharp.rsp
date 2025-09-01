@@ -333,7 +333,9 @@
 -analyzer:"/Applications/Unity/Hub/Editor/6000.2.2f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/6000.2.2f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/6000.2.2f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
-"Assets/Movement/WASD.cs"
+"Assets/Movement/Jumping.cs"
+"Assets/Movement/LockCursor.cs"
+"Assets/Movement/Movement.cs"
 -langversion:9.0
 /deterministic
 /optimize+
